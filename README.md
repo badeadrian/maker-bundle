@@ -1,4 +1,5 @@
 The Symfony MakerBundle
+SALUT MAREA ADMIN
 =======================
 
 The MakerBundle is the fastest way to generate the most common code you'll
